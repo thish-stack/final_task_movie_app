@@ -1,7 +1,6 @@
 //favorite_button.dart
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-
 import '../models/media.dart';
 import '../providers/media_provider.dart';
 

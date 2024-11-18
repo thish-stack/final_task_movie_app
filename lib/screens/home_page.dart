@@ -6,7 +6,7 @@ import '../providers/media_provider.dart';
 import '../widgets/media_item.dart';
 import '../widgets/search_bar.dart' as custom;
 
-// Define the filtered media provider
+
 final filteredMediaProvider = StateProvider<List<Media>>((ref) => []);
 
 class HomePage extends ConsumerStatefulWidget {

@@ -1,6 +1,6 @@
+//details page
 import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher.dart';
-
 import '../models/media.dart';
 import '../widgets/favorite_button.dart';
 

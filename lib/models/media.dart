@@ -1,3 +1,4 @@
+//model
 class Media {
   final String id;
   final String title;
